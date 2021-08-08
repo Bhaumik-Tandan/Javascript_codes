@@ -22,3 +22,14 @@ function c()
 
 c();
 console.log(d);//no prob
+
+
+//local and global can have same name in that global has prefrece
+var vc3=34;
+function c3()
+{
+    var vc3=3;
+    console.log(vc3);
+}
+c3();//prints 3
+console.log(vc3);//prints 34
