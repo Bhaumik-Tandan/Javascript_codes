@@ -1,0 +1,10 @@
+a=45;
+console.log(a=="45");//true
+console.log(a==="45");//false
+console.log(a===45);//true
+console.log(true=="true");//false
+console.log(true==true);//true
+console.log("afc"==='afc');//true
+console.log(9!="9");//false
+console.log(9!=="9");//true
+console.log("9">2);//true
