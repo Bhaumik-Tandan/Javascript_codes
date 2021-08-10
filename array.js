@@ -11,6 +11,9 @@ c=a.unshift("sdffs")//removes the first elemnt and return the length of the arra
 console.log(a,c);
 
 
-//function
 
-//variable declared with var
+
+const e=[1,2,3,4];
+let d;
+d=[...e];//unpack
+console.log(d);
