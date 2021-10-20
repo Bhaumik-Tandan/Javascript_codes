@@ -1,0 +1,55 @@
+{
+    "style":{
+        "html":{
+            "position": "absolute",
+            "left": "2.5vw",
+            "top": "0.5vh",
+            "border": "0.25vh solid #73AD21",
+            "width": "30vw",
+            "height": "50vh"
+        },
+        "css":{
+            "position": "absolute",
+            "left": "34.5vw",
+            "top": "0.5vh",
+            "border": "0.25vh solid #73AD21",
+            "width": "30vw",
+            "height": "50vh"
+        },
+
+        "js":{
+            "position": "absolute",
+            "left": "66.5vw",
+            "top": "0.5vh",
+            "border": "0.25vh solid #73AD21",
+            "width": "30vw",
+            "height": "50vh"
+        }
+    },
+    "placeholder":{
+        "html":"ASSUME YOU ARE WRITING IN BODY DIRECTLY",
+        "css":"ASSUME YOU ARE WRITING IN STYLE DIRECTLY",
+        "js":"ASSUME YOU ARE WRITING IN SCRIPT DIRECTLY"
+    },
+    "mode":{
+        "html":"html",
+        "css":"css",
+        "js":"javascript"
+    },
+    "theme":{
+        "html":"monokai",
+        "css":"solarized_dark",
+        "js":"terminal"
+    },
+
+    "fontSize":{
+        "html":"1.2vw",
+        "css":"1.2vw",
+        "js":"1.2vw"
+    },
+    "tabSize":{
+        "html":"2",
+        "css":"2",
+        "js":"2"
+    }
+}
